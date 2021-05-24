@@ -1,2 +1,2 @@
 # Binary-Search-Tree
-Binary Search Tree Implementation in C++
+Binary Search Tree Implementation in C++ . Binary search tree (BST), also called an ordered or sorted binary tree, is a rooted binary tree whose internal nodes each store a key greater than all the keys in the node's left subtree and less than those in its right subtree . In BST implementation we can Add elements to the tree , remove elements from the tree , traverse over the elements of the tree , find the leaf nodes , minNode , maxNode , etc.
